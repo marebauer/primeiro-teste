@@ -6,4 +6,4 @@
  
  essa linha eu adicionei no site do github.
 
- inclui hoje..
+ inclui hoje...
